@@ -16,7 +16,7 @@ Open sketch-dev-day-warmup.sketch and follow the instructions for each exercise.
 
 ## Exercise 2 - Design fundamentals
 
-Now that you're someone familiar with sketch, we're going to look at some simple designs and start fixing their issues. This dev day isn't focused towards design fundamentals, but we'll cover the 3 most common mistakes so that we can understand them and fix the issues in the mockups. 
+Now that you're familiar with sketch, we're going to look at some flawed designs and start fixing their issues. This dev day isn't focused on design fundamentals, but we'll cover the 3 most common mistakes so that we can understand them and fix the issues in our mockups. 
 
 Without further ado, the 3 most fundamental (and easily correctable) mistakes in design are:
 
