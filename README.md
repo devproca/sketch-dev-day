@@ -71,4 +71,4 @@ The next exercises you'll be asked to fix drawing with these 3 common design pro
 Open sketch-dev-day-fundamentals.sketch and follow the instructions for each exercise.
 
 ### Exercise 3 - Website mockup
-One of the most outrageous websites I've come across recently, is the [Yale School of Art](https://www.art.yale.edu/). Navigate around the site and pick aspects that you want to incorporate into your design. Do a sketch mockup using a subset of their content to create a proposal for a site overhaul. We will share our designs at the end of the day.
+One of the most outrageous websites I've come across recently, is the [Yale School of Art](https://www.art.yale.edu/). Navigate around the site and pick aspects that you want to incorporate into your design. Do a sketch mockup using a subset of their content to create a proposal for a site overhaul. You might also want to check out some *good* sites as inspiration for your design. We will share our designs at the end of the day.
