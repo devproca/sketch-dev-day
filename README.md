@@ -3,7 +3,7 @@
 
 ## Before you begin
 
-Download sketch (if you don't already have it). The sketch files provided all use the Google Font Roboto.
+Download sketch (if you don't already have it). The sketch files provided all use the Google Font, Roboto.
 
 Install the [FontBuddy](https://github.com/AnimaApp/FontBuddy/blob/master/FontBuddy.zip) sketch plugin. When you open sketch documents, you'll be able to install the missing fonts.
 
