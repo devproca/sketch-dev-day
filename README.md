@@ -20,7 +20,7 @@ Now that you're someone familiar with sketch, we're going to look at some simple
 
 Without further ado, the 3 most fundamental (and easily correctable) mistakes in design are:
 
-###Spacing
+### Spacing
 
 There are 4 common problems seen with spacing.
 
@@ -52,7 +52,7 @@ In this example, the spacing between the elements and their container is differe
 It's very temping to use cards and border and backgrounds to separate logical groupings. Every element you add to the page (a border, a background color) makes your design more complicated. Whitespace can be used instead and will help simplify your designs.
 
 
-###Alignment
+### Alignment
    
 Designs with high levels of alignment appear organized and as if care was put in to the design. Designs without alignment can be confusing and look disorganized.  
 
@@ -61,7 +61,7 @@ In this example, the word 'Optional' is not aligned with the label 'Middle name'
 ![](alignment-1.png)
 
 
-###Visual Hierarchy
+### Visual Hierarchy
 
 Visual hierarchy is more generally referred to as contrast. You create visual hierarchy by emphasizing important elements, and de-emphasizing less important elements. With text, this might be achieved by font weight, font color, or font size.
 
